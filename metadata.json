@@ -1,0 +1,15 @@
+{
+  "name": "charlesb-agent",
+  "version": "0.1.0",
+  "author": "charlesb",
+  "summary": "activer service agent",
+  "license": "Apache-2.0",
+  "source": "https://github.com/multihexa/agent",
+  "project_page": "https://github.com/multihexa/agent",
+  "issues_url": "https://github.com/multihexa/agent/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
